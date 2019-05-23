@@ -1,0 +1,421 @@
+nivel,objeto,objeto_label,propuesto,aprobado,diferencia
+1,51101,Sueldos,1275015797.0,1286614847,0.0
+2,51101,Sueldos,488183700.0,488183700,0.0
+1,51103,Aguinaldos,59065210.0,59305210,0.0
+2,51103,Aguinaldos,27143498.0,27143498,0.0
+1,51104,Sobresueldos,78895360.0,78922960,0.0
+2,51104,Sobresueldos,7885835.0,7885835,0.0
+1,51105,Dietas,195215.0,195215,0.0
+2,51105,Dietas,2010990.0,2010990,0.0
+1,51106,Complementos,1452500.0,1452500,0.0
+2,51106,Complementos,481440.0,481440,0.0
+1,51107,Beneficios Adicionales,40248180.0,41335590,0.0
+2,51107,Beneficios Adicionales,38471757.0,38471757,0.0
+1,51201,Sueldos,147112905.0,172243605,0.0
+2,51201,Sueldos,170803151.0,170803151,0.0
+1,51203,Aguinaldos,4270570.0,5082260,0.0
+2,51203,Aguinaldos,10638767.0,10638767,0.0
+1,51204,Sobresueldos,0.0,72240,0.0
+2,51204,Sobresueldos,2013815.0,2013815,0.0
+1,51206,Complementos,141000.0,141000,0.0
+2,51206,Complementos,185020.0,185020,0.0
+1,51207,Beneficios Adicionales,11730455.0,13501280,0.0
+2,51207,Beneficios Adicionales,27697939.0,27697939,0.0
+1,51301,Horas Extraordinarias,1144400.0,1300100,0.0
+2,51301,Horas Extraordinarias,17069136.0,17069136,0.0
+1,51401,Por Remuneraciones Permanentes,141905585.0,143740190,0.0
+2,51401,Por Remuneraciones Permanentes,42112857.0,42112857,0.0
+1,51402,Por Remuneraciones Eventuales,8974440.0,14466965,0.0
+2,51402,Por Remuneraciones Eventuales,11636302.0,11636302,0.0
+1,51403,Por Remuneraciones Extraordinarias,9685.0,20195,0.0
+2,51403,Por Remuneraciones Extraordinarias,1487226.0,1487226,0.0
+1,51501,Por Remuneraciones Permanentes,48162717.0,48506542,0.0
+2,51501,Por Remuneraciones Permanentes,33122767.0,33122767,0.0
+1,51502,Por Remuneraciones Eventuales,9287525.0,9555620,0.0
+2,51502,Por Remuneraciones Eventuales,11695656.0,11695656,0.0
+1,51503,Por Remuneraciones Extraordinarias,9720.0,23510,0.0
+2,51503,Por Remuneraciones Extraordinarias,1269552.0,1269552,0.0
+1,51601,Por Prestación de Servicios en el País,4927905.0,6803335,0.0
+2,51601,Por Prestación de Servicios en el País,20885.0,20885,0.0
+1,51602,Por Prestación de Servicios en el Exterior,1797395.0,1797395,0.0
+2,51602,Por Prestación de Servicios en el Exterior,18940.0,18940,0.0
+1,51701,Al Personal de Servicios Permanentes,2579405.0,2719405,0.0
+2,51701,Al Personal de Servicios Permanentes,3399168.0,3399168,0.0
+1,51702,Al Personal de Servicios Eventuales,1308975.0,1308975,0.0
+2,51702,Al Personal de Servicios Eventuales,3662430.0,3662430,0.0
+1,51903,Prestaciones Sociales al Personal,553995.0,577995,0.0
+2,51903,Prestaciones Sociales al Personal,6223270.0,6223270,0.0
+1,51999,Remuneraciones Diversas,13779147.0,13895002,0.0
+2,51999,Remuneraciones Diversas,18225022.0,18225022,0.0
+1,54101,Productos Alimenticios para Personas,38398100.0,38554470,0.0
+2,54101,Productos Alimenticios para Personas,14857036.0,14857036,0.0
+1,54102,Productos Alimenticios para Animales,205620.0,205620,0.0
+2,54102,Productos Alimenticios para Animales,322825.0,322825,0.0
+1,54103,Productos Agropecuarios y Forestales,16515404.0,17617654,1090955.0
+2,54103,Productos Agropecuarios y Forestales,705830.0,705830,0.0
+1,54104,Productos Textiles y Vestuarios,30878270.0,30923035,0.0
+2,54104,Productos Textiles y Vestuarios,8348627.0,8348627,0.0
+1,54105,Productos de Papel y Cartón,3099905.0,3426875,0.0
+2,54105,Productos de Papel y Cartón,5273359.0,5273359,0.0
+1,54106,Productos de Cuero y Caucho,1266247.0,1270522,0.0
+2,54106,Productos de Cuero y Caucho,1624534.0,1624534,0.0
+1,54107,Productos Químicos,14254220.0,14811875,454500.0
+2,54107,Productos Químicos,26991133.0,26991133,0.0
+1,54108,Productos Farmacéuticos y Medicinales,15583959.0,15613849,0.0
+2,54108,Productos Farmacéuticos y Medicinales,130939004.0,131189004,250000.0
+1,54109,Llantas y Neumáticos,1825675.0,1885725,0.0
+2,54109,Llantas y Neumáticos,1439937.0,1439937,0.0
+1,54110,Combustibles y Lubricantes,14476036.0,14586766,0.0
+2,54110,Combustibles y Lubricantes,11865991.0,11865991,0.0
+1,54111,Minerales no Métalicos y Productos Derivados,206995.0,223635,0.0
+2,54111,Minerales no Métalicos y Productos Derivados,2828983.0,2828983,0.0
+1,54112,Minerales Métalicos y Productos Derivados,1708614.0,1732994,0.0
+2,54112,Minerales Métalicos y Productos Derivados,3953190.0,3953190,0.0
+1,54113,Materiales e Instrumental de Laboratorios y uso Médico,6783240.0,6786405,0.0
+2,54113,Materiales e Instrumental de Laboratorios y uso Médico,47804018.0,48054018,250000.0
+1,54114,Materiales de Oficina,1811470.0,1887770,0.0
+2,54114,Materiales de Oficina,1593230.0,1593230,0.0
+1,54115,Materiales Informáticos,3485260.0,3518790,0.0
+2,54115,Materiales Informáticos,3180380.0,3180380,0.0
+1,54116,"Libros , Textos, Utiles de Enseñanza y Publicaciones",1397700.0,1441945,0.0
+2,54116,"Libros , Textos, Utiles de Enseñanza y Publicaciones",740990.0,740990,0.0
+1,54117,Materiales de Defensa y Seguridad Pública,378090.0,378775,0.0
+2,54117,Materiales de Defensa y Seguridad Pública,163954.0,163954,0.0
+1,54118,"Herramientas, Repuestos y Accesorios",1460425.0,1481680,0.0
+2,54118,"Herramientas, Repuestos y Accesorios",8961965.0,8961965,0.0
+1,54119,Materiales Eléctricos,846867.0,869232,0.0
+2,54119,Materiales Eléctricos,3595673.0,3595673,0.0
+1,54122,Vacunas para Humanos,12672970.0,12672970,0.0
+2,54122,Vacunas para Humanos,10000.0,10000,0.0
+1,54123,Oxígeno,6300.0,6300,0.0
+2,54123,Oxígeno,4625110.0,4625110,0.0
+1,54199,Bienes de Uso y Consumo Diversos,20022934.0,23754524,688990.0
+2,54199,Bienes de Uso y Consumo Diversos,23747340.0,24247340,500000.0
+1,54201,Servicios de Energía Eléctrica,21677183.0,22319963,0.0
+2,54201,Servicios de Energía Eléctrica,70142903.0,70142903,0.0
+1,54202,Servicios de Agua,8856602.0,9024282,0.0
+2,54202,Servicios de Agua,7341905.0,7341905,0.0
+1,54203,Servicios de Telecomunicaciones,12610123.0,13611933,0.0
+2,54203,Servicios de Telecomunicaciones,6821550.0,6821550,0.0
+1,54204,Servicios de Correos,828330.0,829610,0.0
+2,54204,Servicios de Correos,193275.0,193275,0.0
+1,54301,Mantenimientos y Reparaciones de Bienes Muebles,8328663.0,8673048,0.0
+2,54301,Mantenimientos y Reparaciones de Bienes Muebles,14005476.0,14005476,0.0
+1,54302,Mantenimientos y Reparaciones de Vehículos,6195545.0,6395545,0.0
+2,54302,Mantenimientos y Reparaciones de Vehículos,5950336.0,5950336,0.0
+1,54303,Mantenimientos y Reparaciones de Bienes Inmuebles,1567985.0,1572330,0.0
+2,54303,Mantenimientos y Reparaciones de Bienes Inmuebles,10628312.0,10628312,0.0
+1,54304,"Transportes, Fletes y Almacenamientos",225935.0,231935,0.0
+2,54304,"Transportes, Fletes y Almacenamientos",3652765.0,3652765,0.0
+1,54305,Servicios de Publicidad,4237685.0,4337685,0.0
+2,54305,Servicios de Publicidad,10608736.0,10608736,0.0
+1,54306,Servicios de Vigilancia,18460405.0,18760405,0.0
+2,54306,Servicios de Vigilancia,19381870.0,19381870,0.0
+1,54307,Servicios de Limpiezas y Fumigaciones,7940800.0,7941280,0.0
+2,54307,Servicios de Limpiezas y Fumigaciones,11859260.0,11859260,0.0
+1,54308,Servicios de Lavanderías y Planchado,338385.0,338385,0.0
+2,54308,Servicios de Lavanderías y Planchado,66980.0,66980,0.0
+1,54309,Servicios de Laboratorios,323875.0,323875,0.0
+2,54309,Servicios de Laboratorios,24792890.0,24792890,0.0
+1,54310,Servicios de Alimentación,25705292.0,25795692,0.0
+2,54310,Servicios de Alimentación,9107879.0,9107879,0.0
+1,54312,"Servicios Portuarios, Aeroportuarios y Ferroviarios",5000.0,5000,0.0
+2,54312,"Servicios Portuarios, Aeroportuarios y Ferroviarios",142210.0,142210,0.0
+1,54313,"Impresiones, Publicaciones y Reproducciones",3477313.0,3483068,0.0
+2,54313,"Impresiones, Publicaciones y Reproducciones",2583889.0,2583889,0.0
+1,54314,Atenciones Oficiales,1257275.0,1347515,0.0
+2,54314,Atenciones Oficiales,361490.0,361490,0.0
+1,54315,Gastos Reservados,32180080.0,32180080,0.0
+1,54316,Arrendamiento de Bienes Muebles,2136980.0,2412980,0.0
+2,54316,Arrendamiento de Bienes Muebles,4731710.0,4731710,0.0
+1,54317,Arrendamiento de Bienes Inmuebles,15106124.0,15193179,0.0
+2,54317,Arrendamiento de Bienes Inmuebles,9828410.0,9828410,0.0
+1,54318,Arrendamiento por el uso de Bienes Intangibles,257715.0,257715,0.0
+2,54318,Arrendamiento por el uso de Bienes Intangibles,549555.0,549555,0.0
+1,54319,Servicios de Inspección,17333585.0,17333585,0.0
+1,54399,Servicios Generales y Arrendamientos Diversos,13069682.0,13309382,0.0
+2,54399,Servicios Generales y Arrendamientos Diversos,41345266.0,41645266,300000.0
+1,54401,Pasajes al Interior,1961210.0,1961210,0.0
+2,54401,Pasajes al Interior,1094860.0,1094860,0.0
+1,54402,Pasajes al Exterior,1325545.0,1685545,0.0
+2,54402,Pasajes al Exterior,1521545.0,1521545,0.0
+1,54403,Viáticos por Comisión Interna,5403865.0,5403865,0.0
+2,54403,Viáticos por Comisión Interna,4555347.0,4555347,0.0
+1,54404,Viáticos por Comisión Externa,2006935.0,2298935,0.0
+2,54404,Viáticos por Comisión Externa,1238458.0,1238458,0.0
+1,54501,Servicios Médicos,403250.0,403250,0.0
+2,54501,Servicios Médicos,50800120.0,50800120,0.0
+1,54503,Servicios Jurídicos,272765.0,322400,0.0
+2,54503,Servicios Jurídicos,4784270.0,4784270,0.0
+1,54504,Servicios de Contabilidad y Auditoría,496525.0,496525,0.0
+2,54504,Servicios de Contabilidad y Auditoría,523215.0,523215,0.0
+1,54505,Servicios de Capacitación,2230250.0,2246730,0.0
+2,54505,Servicios de Capacitación,38639750.0,38639750,0.0
+1,54507,Desarrollos Informáticos,118655.0,118655,0.0
+2,54507,Desarrollos Informáticos,885225.0,885225,0.0
+1,54508,Estudios e Investigaciones,424995.0,424995,0.0
+2,54508,Estudios e Investigaciones,1086550.0,1086550,0.0
+1,54599,"Consultorías, Estudios e Investigaciones Diversas",16689070.0,16698070,0.0
+2,54599,"Consultorías, Estudios e Investigaciones Diversas",38679740.0,38679740,0.0
+1,55101,Intereses y Comisiones de Bonos del Estado,0.0,86804810,0.0
+1,55102,Intereses y Comisiones de Letras del Tesoro,0.0,49000000,0.0
+1,55201,Intereses y Comisiones de Bonos del Estado,0.0,465665400,0.0
+1,55304,De Empresas Públicas Financieras,0.0,1750900,0.0
+2,55304,De Empresas Públicas Financieras,35555.0,35555,0.0
+1,55309,De Organismos sin Fines de Lucro,0.0,20695,0.0
+1,55403,De Gobiernos y Organismos Gubernamentales,0.0,7698850,0.0
+2,55403,De Gobiernos y Organismos Gubernamentales,3296970.0,3296970,0.0
+1,55404,De Organismos Multilaterales,0.0,121434850,0.0
+2,55404,De Organismos Multilaterales,37543065.0,37543065,0.0
+1,55504,Impuesto a la Transf de Bienes Muebles y a la Prest de Serv.,1000.0,1000,0.0
+2,55504,Impuesto a la Transf de Bienes Muebles y a la Prest de Serv.,8645785.0,8645785,0.0
+1,55507,Tasas,1220085.0,1220085,0.0
+2,55507,Tasas,730905.0,730905,0.0
+1,55508,Derechos,154255.0,154255,0.0
+2,55508,Derechos,68965.0,68965,0.0
+1,55509,Devoluciones de Impuestos Percibidos en Exceso,836120.0,836120,0.0
+1,55510,Devolucion por Liquidacion del Impuesto Sobre la Renta,24880000.0,13380000,-11500000.0
+1,55511,Devol. a Exportadores del Imp. a la Trans. de Bienes Mueb. y a la Prest. de Serv,1283880.0,1283880,0.0
+1,55599,"Impuestos, Tasas y Derechos Diversos",2601235.0,2721005,0.0
+2,55599,"Impuestos, Tasas y Derechos Diversos",6123785.0,6123785,0.0
+1,55601,Primas y Gastos de Seguros de Personas,21621520.0,22087600,0.0
+2,55601,Primas y Gastos de Seguros de Personas,16069007.0,16069007,0.0
+1,55602,Primas y Gastos de Seguros de Bienes,6075615.0,6375615,0.0
+2,55602,Primas y Gastos de Seguros de Bienes,14092583.0,14092583,0.0
+1,55603,Comisiones y Gastos Bancarios,8449912.0,5954457,-2495455.0
+2,55603,Comisiones y Gastos Bancarios,1168880.0,1168880,0.0
+1,55702,Sentencias Judiciales,10427660.0,10427660,0.0
+1,55703,Multas y Costas Judiciales,100.0,100,0.0
+2,55703,Multas y Costas Judiciales,63745.0,63745,0.0
+1,55799,Gastos Diversos,659625.0,659625,0.0
+2,55799,Gastos Diversos,1416645.0,1416645,0.0
+1,56201,Transferencias Corrientes al Sector Público,668220.0,668220,0.0
+2,56201,Transferencias Corrientes al Sector Público,15402785.0,15402785,0.0
+1,5620300,Tribunal Supremo Electoral,14041452.0,14041452,0.0
+1,5620301,Registro Nacional de las Personas Naturales,7142455.0,7142455,0.0
+1,5620501,Instituto Nacional de los Deportes de El Salvador,12478125.0,12478125,0.0
+1,5620504,Instituto Salvadoreño para el Desarrollo de la Mujer,5364860.0,5864860,500000.0
+1,5620505,Fondo de Inversión Social para el Desarrollo Local,30257630.0,30257630,0.0
+1,5620551,Organismo Promotor de Exportaciones e Inversiones de El Salvador (PROESA),3156670.0,3156670,0.0
+1,5620552,Consejo Nacional de Atención a la Persona Discapacitada,456270.0,456270,0.0
+1,5620700,Ramo de Hacienda,4000000.0,4000500,0.0
+1,5620702,Instituto Nacional de Pensiones de los Empleados Públicos,39835235.0,39835235,0.0
+1,5620901,Instituto de Previsión Social de la Fuerza Armada,82639325.0,82639325,0.0
+1,5620902,Centro Farmacéutico de la Fuerza Armada,2000000.0,2000000,0.0
+1,5621601,Caja Mutual del Abogado de El Salvador,20000.0,20000,0.0
+1,5622051,Municipalidades,78000.0,578000,500000.0
+1,562214,Alcaldias Municipales,30000.0,30000,0.0
+1,5622303,Instituto Salvadoreño de Desarrollo Municipal,571430.0,571430,0.0
+1,5622401,Academia Nacional de Seguridad Pública,10743291.0,10743291,0.0
+1,5622402,Unidad Técnica Ejecutiva,5163342.0,5163342,0.0
+1,5622403,Consejo Nacional de Administración de Bienes,658546.0,658546,0.0
+1,5623100,Ramo de Educación,49523745.0,49523745,0.0
+1,5623101,Universidad de El Salvador,86258012.0,86288012,30000.0
+1,5623105,Caja Mutual de los Empleados del Ministerio de Educación,1051220.0,1051220,0.0
+1,5623106,Instituto Salvadoreño para el Desarrollo Integral de la Niñez y la Adolescencia,21242445.0,21242445,0.0
+1,5623108,Consejo Nacional de la Niñez y de la Adolescencia,6545588.0,6545588,0.0
+1,5623201,Hospital Nacional Rosales,46303140.0,46303140,0.0
+1,5623202,"Hospital Nacional ""Benjamin Bloom""",34860275.0,35360275,500000.0
+1,5623203,"Hospital Nacional de la Mujer ""Doctora María Isabel Rodríguez"", San Salvador",19036790.0,19036790,0.0
+1,5623204,"Hospital Nacional Psiquiátrico ""Dr. José Molina Martínez""",13888465.0,13888465,0.0
+1,5623205,"Hospital Nacional de Neumología y Medicina Familiar, ""Dr. José Antonio Saldaña"", San Salvador",9207950.0,9207950,0.0
+1,5623206,"Hospital Nacional ""San Juan de Dios"", Santa Ana",25837105.0,25837105,0.0
+1,5623207,"Hospital Nacional ""Francisco Menéndez"", Ahuachapán",8308280.0,8308280,0.0
+1,5623208,"Hospital Nacional  ""Dr. Jorge Mazzini Villacorta"",  Sonsonate",10991895.0,10991895,0.0
+1,5623209,"Hospital Nacional ""Dr. Luis Edmundo Vásquez"", Chalatenango",6178070.0,6178070,0.0
+1,5623210,"Hospital Nacional ""San Rafael"", Santa Tecla, La Libertad",15825595.0,15825595,0.0
+1,5623211,"Hospital Nacional ""Santa Gertrudis"", San Vicente",9756015.0,9756015,0.0
+1,5623212,"Hospital Nacional ""Santa Teresa"", Zacatecoluca",9139930.0,9139930,0.0
+1,5623213,"Hospital Nacional ""San Juan de Dios"", San Miguel",27174440.0,27174440,0.0
+1,5623214,"Hospital Nacional ""San Pedro"", Usulután",10016685.0,10016685,0.0
+1,5623215,"Hospital Nacional ""Dr. Juan José Fernández"", Zacamil",15847475.0,15847475,0.0
+1,5623216,"Hospital Nacional ""Enfermera Angélica Vidal de Najarro"", San Bartolo, San Salvador",7038450.0,7038450,0.0
+1,5623217,"Hospital Nacional ""Nuestra Señora de Fátima"", Cojutepeque, Cuscatlán",6073065.0,6073065,0.0
+1,5623218,Hospital Nacional de la Unión,4069125.0,4069125,0.0
+1,5623219,Hospital Nacional de Ilobasco,4087270.0,4087270,0.0
+1,5623220,Hospital Nacional de Nueva Guadalupe,3775735.0,3775735,0.0
+1,5623221,"Hospital Nacional ""Monseñor Oscar Arnulfo Romero y Galdámez"", Ciudad Barrios, San Miguel",3448830.0,3448830,0.0
+1,5623222,Hospital Nacional de Sensuntepeque,3607225.0,3607225,0.0
+1,5623223,Hospital Nacional de Chalchuapa,4217920.0,4217920,0.0
+1,5623224,Hospital Nacional de Metapán,3384005.0,3384005,0.0
+1,5623225,"Hospital Nacional ""Dr. Héctor Antonio Hernández Flores"", San Francisco Gotera, Morazán",4627665.0,4627665,0.0
+1,5623226,Hospital Nacional de Santa Rosa de Lima,4312530.0,4312530,0.0
+1,5623227,Hospital Nacional de Nueva Concepción,3434370.0,3434370,0.0
+1,5623228,Hospital Nacional de Santiago de María,3958975.0,3958975,0.0
+1,5623229,Hospital Nacional de Jiquilisco,3775895.0,3775895,0.0
+1,5623230,Hospital Nacional de Suchitoto,2358110.0,2358110,0.0
+1,5623231,Consejo Superior de Salud Pública,1401930.0,1401980,0.0
+1,5623232,Instituto Salvadoreño de Rehabilitación Integral,13615780.0,13615780,0.0
+1,5623233,"Hogar de Ancianos ""Narcisa Castillo"", Santa Ana",527845.0,527845,0.0
+1,5623234,Cruz Roja Salvadoreña,2600230.0,2600230,0.0
+1,5623303,Instituto Salvadoreño del Seguro Social,40406665.0,40406665,0.0
+1,5623304,Fondo de Protección de Lisiados y Disc. a Cons. del C. A.,54002263.0,54002263,0.0
+1,5624103,Consejo de Vigilancia de la Contaduría Pública y Auditoría,168265.0,168265,0.0
+1,5624115,Fondo de Inversión Nacional en Electricidad y Telefonía,64000000.0,64000000,0.0
+1,5624117,Superintendencia de Competencia,2659133.0,2659133,0.0
+1,5624118,Defensoría del Consumidor,5972020.0,5972020,0.0
+1,5624119,Consejo Nacional de Energía,1496646.0,1496646,0.0
+1,5624120,Consejo Nacional de Calidad,1406493.0,1406493,0.0
+1,5624121,Instituto Salvadoreño de Fomento Cooperativo,1330240.0,1330240,0.0
+1,5624122,Comisión Nacional de la Micro y Pequeña Empresa,6254935.0,6254935,0.0
+1,5624201,Instituto Salvadoreño de Transformación Agraria,7079508.0,7079508,0.0
+1,5624202,Centro Nacional de Tecnología Agropecuaria y Forestal,9855947.0,10155947,300000.0
+1,5624203,Escuela Nacional de Agricultura,2362228.0,2362228,0.0
+1,5624206,Consejo Salvadoreño del Café,1003763.0,1003763,0.0
+1,5624305,Fondo Nacional para la Vivienda popular,120000.0,120000,0.0
+1,5624306,Fondo de Conservación Vial,49456343.0,49456343,0.0
+1,5624308,Fondo para la Atención a las Víctimas de Accidentes de Tránsito,5930479.0,5930479,0.0
+1,5624352,Instituto de Legalización de la Propiedad,534755.0,534755,0.0
+1,5624401,Fondo Ambiental de El Salvador,432800.0,432800,0.0
+1,5624601,Instituto Salvadoreño de Turismo,2286843.0,2286843,0.0
+1,5624602,Corporación Salvadoreña de Turismo,2241337.0,2241337,0.0
+1,5624991,Banco Central de Reserva de El Salvador,300.0,300,0.0
+1,5629602,Corporación de Municipalidades de la República de El Salvador,571430.0,571430,0.0
+1,56301,A Empresas Privadas no Financieras,98071981.0,98121981,50000.0
+2,56301,A Empresas Privadas no Financieras,64000000.0,64000000,0.0
+1,56302,A Empresas Privadas Financieras,246434410.0,246434410,0.0
+1,56303,A Organismos sin Fines de Lucro,20017300.0,25024115,4211815.0
+2,56303,A Organismos sin Fines de Lucro,8888262.0,8888262,0.0
+1,56304,A Personas Naturales,31968940.0,31968940,0.0
+2,56304,A Personas Naturales,64565114.0,64565114,0.0
+1,56305,Becas,2984260.0,2984260,0.0
+2,56305,Becas,2279190.0,2309190,0.0
+1,56403,A Gobiernos y Organismos Gubernamentales,43365.0,43365,0.0
+2,56403,A Gobiernos y Organismos Gubernamentales,35000.0,35000,0.0
+1,56404,A Organismos Multilaterales,11024990.0,6092800,-5000000.0
+2,56404,A Organismos Multilaterales,354230.0,354230,0.0
+1,56405,A Organismos Sin Fines de Lucro,369955.0,369955,0.0
+2,56405,A Organismos Sin Fines de Lucro,282250.0,282250,0.0
+1,61101,Mobiliarios,1354464.0,1414684,0.0
+2,61101,Mobiliarios,2694418.0,2694418,0.0
+1,61102,Maquinarias y Equipos,6891089.0,6939824,0.0
+2,61102,Maquinarias y Equipos,16764127.0,16764127,0.0
+1,61103,Equipos Médicos y de Laboratorios,1600890.0,1604820,0.0
+2,61103,Equipos Médicos y de Laboratorios,16653411.0,16653411,0.0
+1,61104,Equipos Informáticos,12765310.0,13392880,0.0
+2,61104,Equipos Informáticos,6811320.0,6811320,0.0
+1,61105,Vehículos de Transporte,8072770.0,8072770,0.0
+2,61105,Vehículos de Transporte,5268041.0,5268041,0.0
+1,61107,Libros y Colecciones,50000.0,52550,0.0
+2,61107,Libros y Colecciones,91725.0,91725,0.0
+1,61108,Herramientas y Repuestos Principales,390550.0,397775,0.0
+2,61108,Herramientas y Repuestos Principales,3893007.0,3893007,0.0
+1,61110,Maquinaria y Equipo para Apoyo Institucional,470403.0,470403,0.0
+2,61110,Maquinaria y Equipo para Apoyo Institucional,2046870.0,2046870,0.0
+1,61199,Bienes Muebles Diversos,5941899.0,5955919,0.0
+2,61199,Bienes Muebles Diversos,4975334.0,4975334,0.0
+1,61201,Terrenos,6812655.0,6812655,0.0
+2,61201,Terrenos,1829200.0,1829200,0.0
+1,61202,Edificios e Instalaciones,2500000.0,2500000,0.0
+2,61202,Edificios e Instalaciones,80000.0,80000,0.0
+1,61403,Derechos de Propiedad Intelectual,2889827.0,3030327,0.0
+2,61403,Derechos de Propiedad Intelectual,4237913.0,4237913,0.0
+1,61501,Proyectos de Construcciones,1045000.0,1045000,0.0
+2,61501,Proyectos de Construcciones,1109000.0,1109000,0.0
+1,61502,Proyectos de Ampliaciones,0.0,5000,0.0
+2,61502,Proyectos de Ampliaciones,5000.0,5000,0.0
+1,61599,Proyectos y Programas de Inversión Diversos,234660.0,234660,0.0
+2,61599,Proyectos y Programas de Inversión Diversos,321520.0,321520,0.0
+1,61601,Viales,92652300.0,94527300,1875000.0
+2,61601,Viales,26012945.0,26012945,0.0
+1,61602,De Salud y Saneamiento Ambiental,9450900.0,9450900,0.0
+2,61602,De Salud y Saneamiento Ambiental,11778450.0,11778450,0.0
+1,61603,De Educación y Recreación,24827465.0,24827465,0.0
+2,61603,De Educación y Recreación,10749385.0,10809385,60000.0
+1,61604,De Vivienda y Oficina,30510580.0,30510580,0.0
+2,61604,De Vivienda y Oficina,6330965.0,6330965,0.0
+1,61606,Eléctricas y Comunicaciones,3526210.0,3526210,0.0
+2,61606,Eléctricas y Comunicaciones,1220480.0,1220480,0.0
+1,61607,De Producción de Bienes y Servicios,170000.0,170000,0.0
+2,61607,De Producción de Bienes y Servicios,136081760.0,136081760,0.0
+1,61608,Supervisión de Infraestructuras,7068901.0,7068901,0.0
+2,61608,Supervisión de Infraestructuras,4250390.0,4250390,0.0
+1,61699,Obras de Infraestructura Diversas,20135905.0,20135905,0.0
+2,61699,Obras de Infraestructura Diversas,9499440.0,9499440,0.0
+1,6220501,Instituto Nacional de los Deportes de El Salvador,530000.0,530000,0.0
+1,6220504,Instituto Salvadoreño para el Desarrollo de La Mujer,300000.0,300000,0.0
+1,6220505,Fondo de Inversión Social para el Desarrollo Local,40520850.0,40520850,0.0
+2,6220505,Fondo de Inversión Social para el Desarrollo Local,563380.0,563380,0.0
+1,6220507,Fondo del Milenio,12638860.0,12638860,0.0
+1,6220537,Fondo Solidario para la Familia Microempresaria (FOSOFAMILIA),200000.0,200000,0.0
+1,6222051,Municipalidades,712000.0,903928,191928.0
+2,6222051,Municipalidades,373205545.0,373205545,0.0
+1,6222303,Insituto Salvadoreño de Desarrollo Municipal,373205545.0,373205545,0.0
+1,6222401,Academia Nacional de Seguridad Pública,270000.0,270000,0.0
+1,6223100,Ramo de Educación,1357680.0,1357680,0.0
+1,6223101,Universidad de El Salvador,2149540.0,2209540,60000.0
+1,6224120,Consejo Nacional de Calidad,600000.0,600000,0.0
+1,6224122,Comisión Nacional de la Micro y Pequeña Empresa,1416475.0,1416475,0.0
+1,6224202,Centro Nacional de Tecnología Agropecuaria Forestal,1180200.0,1180200,0.0
+1,6224301,Administración Nacional de Acueductos y Alcantaril,18000000.0,18000000,0.0
+1,6224305,Fondo Nacional para la Vivienda Popular,5162965.0,5162965,0.0
+1,6224352,Instituto de Legalización de la Propiedad,10000.0,10000,0.0
+1,6224601,Instituto Salvadoreño de Turismo,900000.0,900000,0.0
+1,62301,A Empresas Privadas no Financieras,3770250.0,3770250,0.0
+2,62301,A Empresas Privadas no Financieras,78705.0,78705,0.0
+1,62302,A Empresas Privadas Financieras,6060235.0,6060235,0.0
+1,62303,A Organismos Sin Fines de Lucro,46433515.0,46433515,0.0
+1,62304,A Personas Naturales,2298725.0,2298725,0.0
+2,62304,A Personas Naturales,12859310.0,12859310,0.0
+1,62305,Becas,400000.0,400000,0.0
+1,62401,Transferencias de Capital Diversas,2395000.0,8819217,0.0
+1,71101,Rescate de Bonos del Estado,0.0,3573090,0.0
+1,71201,Rescate de Bonos del Estado,0.0,800000000,0.0
+1,71304,De Empresas Públicas Financieras,0.0,5820765,0.0
+2,71304,De Empresas Públicas Financieras,29050.0,29050,0.0
+1,71309,De Organismos Sin Fines de Lucro,0.0,119840,0.0
+1,71403,De Gobiernos y Organismos Gubernamentales,0.0,23730205,0.0
+2,71403,De Gobiernos y Organismos Gubernamentales,11322100.0,11322100,0.0
+1,71404,De Organismos Multilaterales,0.0,257219435,0.0
+2,71404,De Organismos Multilaterales,33036980.0,33036980,0.0
+1,81101,A Fondo de Conservación Vial,92723997.0,92723997,0.0
+1,81103,Al Fondo Solidario para la Salud,45303289.0,45303289,0.0
+1,81104,A la Corporación Salvadoreña de Turismo,11483061.0,11483061,0.0
+1,81105,Transporte Estabilización de Tarifas del Servicio Público de Transporte Colectivo de Pasajeros,46361999.0,46361999,0.0
+1,81108,Al Financiamiento para el Plan de Seguridad Ciudadana y Convivencia,0.0,124135756,0.0
+2,51102,Salarios por Jornal,16665800.0,16665800,0.0
+2,51202,Salarios por Jornal,2976490.0,2976490,0.0
+2,51302,Beneficios Extraordinarios,11255450.0,11255450,0.0
+2,51801,Comisiones por Ventas,75000.0,75000,0.0
+2,51802,Comisiones por Recaudaciones,7500.0,7500,0.0
+2,51901,Honorarios,15000.0,15000,0.0
+2,51902,Remuneraciones por Servicios Especiales,166600.0,166600,0.0
+2,53101,Pensiones por Vejez,331666850.0,331666850,0.0
+2,53102,Pensiones por Invalidez,4233385.0,4233385,0.0
+2,53103,Pensiones por Viudez,77311915.0,77311915,0.0
+2,53104,Pensiones por Orfandad,6672875.0,6672875,0.0
+2,53105,Beneficios por Incapacidad Temporal,57810135.0,57810135,0.0
+2,53106,Beneficios Adicionales,25048815.0,25048815,0.0
+2,53199,Pensiones y Jubilaciones Diversas,9502450.0,9502450,0.0
+2,54121,Especies Municipales Diversas,572180.0,572180,0.0
+2,54502,Servicios del Medio Ambiente y Recursos Naturales,131360.0,131360,0.0
+2,54506,Servicios de Fiscalización,3955.0,3955,0.0
+2,54901,Crédito Fiscal,29279635.0,29279635,0.0
+2,55199,Intereses y Comisiones de Títulos Valores Diversos,6150720.0,6150720,0.0
+2,55307,De Empresas Privadas no Financieras,11692245.0,11692245,0.0
+2,55308,De Empresas Privadas Financieras,1291665.0,1291665,0.0
+2,55310,De Personas Naturales,28000.0,28000,0.0
+2,55501,Impuesto sobre la Renta,685735.0,685735,0.0
+2,55704,Comisiones y Descuentos sobre Ventas,10022240.0,10022240,0.0
+2,55901,Crédito Fiscal,1358625.0,1358625,0.0
+2,5622400,Ramo de Justicia y Seguridad Pública,218585.0,218585,0.0
+2,61106,Obras de Arte y Culturales,2310.0,2310,0.0
+2,61109,Maquinaria y Equipo para la Producción,565000.0,565000,0.0
+2,61301,Ganado Vacuno,1330.0,1330,0.0
+2,61303,Ganado Porcino,2125.0,2125,0.0
+2,61399,Semovientes Diversos,1495.0,1495,0.0
+2,61402,Derechos de Propiedad Comercial,200.0,200,0.0
+2,61499,Derechos de Intangibles Diversos,937205.0,937205,0.0
+2,61503,Programas de Inversion Social,199995.0,199995,0.0
+2,61605,"Portuarias, Aeroportuarias y Ferroviarias",25452000.0,25452000,0.0
+2,61901,Crédito Fiscal,24797411.0,24797411,0.0
+2,62201,Transferencias de Capital al Sector Público,5450050.0,5450050,0.0
+2,6224400,Ramo de Medio Ambiente y Recursos Naturales,65880.0,65880,0.0
+2,63101,Bonos,100000.0,100000,0.0
+2,63105,Depósitos a Plazo,3334940.0,3334940,0.0
+2,63199,Titulosvalores Diversos,3240.0,3240,0.0
+2,63206,A Municipalidades,5975365.0,5975365,0.0
+2,63210,A Personas Naturales,16506135.0,16506135,0.0
+2,71199,Rescate de Titulosvalores Diversos,8288995.0,8288995,0.0
+2,71307,De Empresas Privadas no Financieras,10278455.0,10278455,0.0
+2,71308,De Empresas Privadas Financieras,942775.0,942775,0.0

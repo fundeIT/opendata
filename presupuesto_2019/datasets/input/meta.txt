@@ -1,0 +1,6 @@
+Esta carpeta contiene los dataset del Presupuesto General del Estado 2019 en dos momentos: el propuesto por el Órgano Ejecutivo y el aprobado por la Asamblea Legislativa. Los datos fueron proporcionados por el Ministerio de Hacienda en respuesta a una solicitud de información, en enero de 2019, referencia UAIP/RES.0008.2/2019.
+
+Notas:
+
+- Los datos están almacenados en archivos Excel
+- El dataset del presupuesto propuesto tiene menos información porque no incluye a todas las instituciones. Está excluida, por ejemplo, la Asamblea Legislativa.

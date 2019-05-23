@@ -1,0 +1,293 @@
+objeto,objeto_label
+51101,Sueldos
+51102,Salarios por Jornal
+51103,Aguinaldos
+51104,Sobresueldos
+51105,Dietas
+51106,Complementos
+51107,Beneficios Adicionales
+51201,Sueldos
+51202,Salarios por Jornal
+51203,Aguinaldos
+51204,Sobresueldos
+51206,Complementos
+51207,Beneficios Adicionales
+51301,Horas Extraordinarias
+51302,Beneficios Extraordinarios
+51401,Por Remuneraciones Permanentes
+51402,Por Remuneraciones Eventuales
+51403,Por Remuneraciones Extraordinarias
+51501,Por Remuneraciones Permanentes
+51502,Por Remuneraciones Eventuales
+51503,Por Remuneraciones Extraordinarias
+51601,Por Prestación de Servicios en el País
+51602,Por Prestación de Servicios en el Exterior
+51701,Al Personal de Servicios Permanentes
+51702,Al Personal de Servicios Eventuales
+51801,Comisiones por Ventas
+51802,Comisiones por Recaudaciones
+51901,Honorarios
+51902,Remuneraciones por Servicios Especiales
+51903,Prestaciones Sociales al Personal
+51999,Remuneraciones Diversas
+53101,Pensiones por Vejez
+53102,Pensiones por Invalidez
+53103,Pensiones por Viudez
+53104,Pensiones por Orfandad
+53105,Beneficios por Incapacidad Temporal
+53106,Beneficios Adicionales
+53199,Pensiones y Jubilaciones Diversas
+54101,Productos Alimenticios para Personas
+54102,Productos Alimenticios para Animales
+54103,Productos Agropecuarios y Forestales
+54104,Productos Textiles y Vestuarios
+54105,Productos de Papel y Cartón
+54106,Productos de Cuero y Caucho
+54107,Productos Químicos
+54108,Productos Farmacéuticos y Medicinales
+54109,Llantas y Neumáticos
+54110,Combustibles y Lubricantes
+54111,Minerales no Métalicos y Productos Derivados
+54112,Minerales Métalicos y Productos Derivados
+54113,Materiales e Instrumental de Laboratorios y uso Médico
+54114,Materiales de Oficina
+54115,Materiales Informáticos
+54116,"Libros , Textos, Utiles de Enseñanza y Publicaciones"
+54117,Materiales de Defensa y Seguridad Pública
+54118,"Herramientas, Repuestos y Accesorios"
+54119,Materiales Eléctricos
+54121,Especies Municipales Diversas
+54122,Vacunas para Humanos
+54123,Oxígeno
+54199,Bienes de Uso y Consumo Diversos
+54201,Servicios de Energía Eléctrica
+54202,Servicios de Agua
+54203,Servicios de Telecomunicaciones
+54204,Servicios de Correos
+54301,Mantenimientos y Reparaciones de Bienes Muebles
+54302,Mantenimientos y Reparaciones de Vehículos
+54303,Mantenimientos y Reparaciones de Bienes Inmuebles
+54304,"Transportes, Fletes y Almacenamientos"
+54305,Servicios de Publicidad
+54306,Servicios de Vigilancia
+54307,Servicios de Limpiezas y Fumigaciones
+54308,Servicios de Lavanderías y Planchado
+54309,Servicios de Laboratorios
+54310,Servicios de Alimentación
+54312,"Servicios Portuarios, Aeroportuarios y Ferroviarios"
+54313,"Impresiones, Publicaciones y Reproducciones"
+54314,Atenciones Oficiales
+54315,Gastos Reservados
+54316,Arrendamiento de Bienes Muebles
+54317,Arrendamiento de Bienes Inmuebles
+54318,Arrendamiento por el uso de Bienes Intangibles
+54319,Servicios de Inspección
+54399,Servicios Generales y Arrendamientos Diversos
+54401,Pasajes al Interior
+54402,Pasajes al Exterior
+54403,Viáticos por Comisión Interna
+54404,Viáticos por Comisión Externa
+54501,Servicios Médicos
+54502,Servicios del Medio Ambiente y Recursos Naturales
+54503,Servicios Jurídicos
+54504,Servicios de Contabilidad y Auditoría
+54505,Servicios de Capacitación
+54506,Servicios de Fiscalización
+54507,Desarrollos Informáticos
+54508,Estudios e Investigaciones
+54599,"Consultorías, Estudios e Investigaciones Diversas"
+54901,Crédito Fiscal
+55101,Intereses y Comisiones de Bonos del Estado
+55102,Intereses y Comisiones de Letras del Tesoro
+55199,Intereses y Comisiones de Títulos Valores Diversos
+55201,Intereses y Comisiones de Bonos del Estado
+55304,De Empresas Públicas Financieras
+55307,De Empresas Privadas no Financieras
+55308,De Empresas Privadas Financieras
+55309,De Organismos sin Fines de Lucro
+55310,De Personas Naturales
+55403,De Gobiernos y Organismos Gubernamentales
+55404,De Organismos Multilaterales
+55501,Impuesto sobre la Renta
+55504,Impuesto a la Transf de Bienes Muebles y a la Prest de Serv.
+55507,Tasas
+55508,Derechos
+55509,Devoluciones de Impuestos Percibidos en Exceso
+55510,Devolucion por Liquidacion del Impuesto Sobre la Renta
+55511,Devol. a Exportadores del Imp. a la Trans. de Bienes Mueb. y a la Prest. de Serv
+55599,"Impuestos, Tasas y Derechos Diversos"
+55601,Primas y Gastos de Seguros de Personas
+55602,Primas y Gastos de Seguros de Bienes
+55603,Comisiones y Gastos Bancarios
+55702,Sentencias Judiciales
+55703,Multas y Costas Judiciales
+55704,Comisiones y Descuentos sobre Ventas
+55799,Gastos Diversos
+55901,Crédito Fiscal
+56201,Transferencias Corrientes al Sector Público
+56301,A Empresas Privadas no Financieras
+56302,A Empresas Privadas Financieras
+56303,A Organismos sin Fines de Lucro
+56304,A Personas Naturales
+56305,Becas
+56403,A Gobiernos y Organismos Gubernamentales
+56404,A Organismos Multilaterales
+56405,A Organismos Sin Fines de Lucro
+61101,Mobiliarios
+61102,Maquinarias y Equipos
+61103,Equipos Médicos y de Laboratorios
+61104,Equipos Informáticos
+61105,Vehículos de Transporte
+61106,Obras de Arte y Culturales
+61107,Libros y Colecciones
+61108,Herramientas y Repuestos Principales
+61109,Maquinaria y Equipo para la Producción
+61110,Maquinaria y Equipo para Apoyo Institucional
+61199,Bienes Muebles Diversos
+61201,Terrenos
+61202,Edificios e Instalaciones
+61301,Ganado Vacuno
+61303,Ganado Porcino
+61399,Semovientes Diversos
+61402,Derechos de Propiedad Comercial
+61403,Derechos de Propiedad Intelectual
+61499,Derechos de Intangibles Diversos
+61501,Proyectos de Construcciones
+61502,Proyectos de Ampliaciones
+61503,Programas de Inversion Social
+61599,Proyectos y Programas de Inversión Diversos
+61601,Viales
+61602,De Salud y Saneamiento Ambiental
+61603,De Educación y Recreación
+61604,De Vivienda y Oficina
+61605,"Portuarias, Aeroportuarias y Ferroviarias"
+61606,Eléctricas y Comunicaciones
+61607,De Producción de Bienes y Servicios
+61608,Supervisión de Infraestructuras
+61699,Obras de Infraestructura Diversas
+61901,Crédito Fiscal
+62201,Transferencias de Capital al Sector Público
+62301,A Empresas Privadas no Financieras
+62302,A Empresas Privadas Financieras
+62303,A Organismos Sin Fines de Lucro
+62304,A Personas Naturales
+62305,Becas
+62401,Transferencias de Capital Diversas
+63101,Bonos
+63105,Depósitos a Plazo
+63199,Titulosvalores Diversos
+63206,A Municipalidades
+63210,A Personas Naturales
+71101,Rescate de Bonos del Estado
+71199,Rescate de Titulosvalores Diversos
+71201,Rescate de Bonos del Estado
+71304,De Empresas Públicas Financieras
+71307,De Empresas Privadas no Financieras
+71308,De Empresas Privadas Financieras
+71309,De Organismos Sin Fines de Lucro
+71403,De Gobiernos y Organismos Gubernamentales
+71404,De Organismos Multilaterales
+81101,A Fondo de Conservación Vial
+81103,Al Fondo Solidario para la Salud
+81104,A la Corporación Salvadoreña de Turismo
+81105,Transporte Estabilización de Tarifas del Servicio Público de Transporte Colectivo de Pasajeros
+81108,Al Financiamiento para el Plan de Seguridad Ciudadana y Convivencia
+562214,Alcaldias Municipales
+5620300,Tribunal Supremo Electoral
+5620301,Registro Nacional de las Personas Naturales
+5620501,Instituto Nacional de los Deportes de El Salvador
+5620504,Instituto Salvadoreño para el Desarrollo de la Mujer
+5620505,Fondo de Inversión Social para el Desarrollo Local
+5620551,Organismo Promotor de Exportaciones e Inversiones de El Salvador (PROESA)
+5620552,Consejo Nacional de Atención a la Persona Discapacitada
+5620700,Ramo de Hacienda
+5620702,Instituto Nacional de Pensiones de los Empleados Públicos
+5620901,Instituto de Previsión Social de la Fuerza Armada
+5620902,Centro Farmacéutico de la Fuerza Armada
+5621601,Caja Mutual del Abogado de El Salvador
+5622051,Municipalidades
+5622303,Instituto Salvadoreño de Desarrollo Municipal
+5622400,Ramo de Justicia y Seguridad Pública
+5622401,Academia Nacional de Seguridad Pública
+5622402,Unidad Técnica Ejecutiva
+5622403,Consejo Nacional de Administración de Bienes
+5623100,Ramo de Educación
+5623101,Universidad de El Salvador
+5623105,Caja Mutual de los Empleados del Ministerio de Educación
+5623106,Instituto Salvadoreño para el Desarrollo Integral de la Niñez y la Adolescencia
+5623108,Consejo Nacional de la Niñez y de la Adolescencia
+5623201,Hospital Nacional Rosales
+5623202,"Hospital Nacional ""Benjamin Bloom"""
+5623203,"Hospital Nacional de la Mujer ""Doctora María Isabel Rodríguez"", San Salvador"
+5623204,"Hospital Nacional Psiquiátrico ""Dr. José Molina Martínez"""
+5623205,"Hospital Nacional de Neumología y Medicina Familiar, ""Dr. José Antonio Saldaña"", San Salvador"
+5623206,"Hospital Nacional ""San Juan de Dios"", Santa Ana"
+5623207,"Hospital Nacional ""Francisco Menéndez"", Ahuachapán"
+5623208,"Hospital Nacional  ""Dr. Jorge Mazzini Villacorta"",  Sonsonate"
+5623209,"Hospital Nacional ""Dr. Luis Edmundo Vásquez"", Chalatenango"
+5623210,"Hospital Nacional ""San Rafael"", Santa Tecla, La Libertad"
+5623211,"Hospital Nacional ""Santa Gertrudis"", San Vicente"
+5623212,"Hospital Nacional ""Santa Teresa"", Zacatecoluca"
+5623213,"Hospital Nacional ""San Juan de Dios"", San Miguel"
+5623214,"Hospital Nacional ""San Pedro"", Usulután"
+5623215,"Hospital Nacional ""Dr. Juan José Fernández"", Zacamil"
+5623216,"Hospital Nacional ""Enfermera Angélica Vidal de Najarro"", San Bartolo, San Salvador"
+5623217,"Hospital Nacional ""Nuestra Señora de Fátima"", Cojutepeque, Cuscatlán"
+5623218,Hospital Nacional de la Unión
+5623219,Hospital Nacional de Ilobasco
+5623220,Hospital Nacional de Nueva Guadalupe
+5623221,"Hospital Nacional ""Monseñor Oscar Arnulfo Romero y Galdámez"", Ciudad Barrios, San Miguel"
+5623222,Hospital Nacional de Sensuntepeque
+5623223,Hospital Nacional de Chalchuapa
+5623224,Hospital Nacional de Metapán
+5623225,"Hospital Nacional ""Dr. Héctor Antonio Hernández Flores"", San Francisco Gotera, Morazán"
+5623226,Hospital Nacional de Santa Rosa de Lima
+5623227,Hospital Nacional de Nueva Concepción
+5623228,Hospital Nacional de Santiago de María
+5623229,Hospital Nacional de Jiquilisco
+5623230,Hospital Nacional de Suchitoto
+5623231,Consejo Superior de Salud Pública
+5623232,Instituto Salvadoreño de Rehabilitación Integral
+5623233,"Hogar de Ancianos ""Narcisa Castillo"", Santa Ana"
+5623234,Cruz Roja Salvadoreña
+5623303,Instituto Salvadoreño del Seguro Social
+5623304,Fondo de Protección de Lisiados y Disc. a Cons. del C. A.
+5624103,Consejo de Vigilancia de la Contaduría Pública y Auditoría
+5624115,Fondo de Inversión Nacional en Electricidad y Telefonía
+5624117,Superintendencia de Competencia
+5624118,Defensoría del Consumidor
+5624119,Consejo Nacional de Energía
+5624120,Consejo Nacional de Calidad
+5624121,Instituto Salvadoreño de Fomento Cooperativo
+5624122,Comisión Nacional de la Micro y Pequeña Empresa
+5624201,Instituto Salvadoreño de Transformación Agraria
+5624202,Centro Nacional de Tecnología Agropecuaria y Forestal
+5624203,Escuela Nacional de Agricultura
+5624206,Consejo Salvadoreño del Café
+5624305,Fondo Nacional para la Vivienda popular
+5624306,Fondo de Conservación Vial
+5624308,Fondo para la Atención a las Víctimas de Accidentes de Tránsito
+5624352,Instituto de Legalización de la Propiedad
+5624401,Fondo Ambiental de El Salvador
+5624601,Instituto Salvadoreño de Turismo
+5624602,Corporación Salvadoreña de Turismo
+5624991,Banco Central de Reserva de El Salvador
+5629602,Corporación de Municipalidades de la República de El Salvador
+6220501,Instituto Nacional de los Deportes de El Salvador
+6220504,Instituto Salvadoreño para el Desarrollo de La Mujer
+6220505,Fondo de Inversión Social para el Desarrollo Local
+6220507,Fondo del Milenio
+6220537,Fondo Solidario para la Familia Microempresaria (FOSOFAMILIA)
+6222051,Municipalidades
+6222303,Insituto Salvadoreño de Desarrollo Municipal
+6222401,Academia Nacional de Seguridad Pública
+6223100,Ramo de Educación
+6223101,Universidad de El Salvador
+6224120,Consejo Nacional de Calidad
+6224122,Comisión Nacional de la Micro y Pequeña Empresa
+6224202,Centro Nacional de Tecnología Agropecuaria Forestal
+6224301,Administración Nacional de Acueductos y Alcantaril
+6224305,Fondo Nacional para la Vivienda Popular
+6224352,Instituto de Legalización de la Propiedad
+6224400,Ramo de Medio Ambiente y Recursos Naturales
+6224601,Instituto Salvadoreño de Turismo

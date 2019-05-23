@@ -1,0 +1,51 @@
+nivel,economico,economico_label,propuesto,aprobado,diferencia
+1,2111,Remuneraciones,1849122406.0,1900136256,0.0
+2,2111,Remuneraciones,940257343.0,940257343,0.0
+1,2112,Bienes y Servicios,391491778.0,402143913,2234445.0
+2,2112,Bienes y Servicios,710455781.0,711755781,1300000.0
+1,2131,Intereses y Comisiones de Titulos y Valores en el Mercado Na,0.0,135804810,0.0
+2,2131,Intereses y Comisiones de Titulos y Valores en el Mercado Na,6150720.0,6150720,0.0
+1,2132,Intereses y Comisiones de Titulos y Valores en el Mercado Ex,0.0,465665400,0.0
+1,2133,Intereses y Comisiones de Emprestitos Internos,0.0,1771595,0.0
+2,2133,Intereses y Comisiones de Emprestitos Internos,13019465.0,13019465,0.0
+1,2134,Intereses y Comisiones de Emprestitos Externos,0.0,129133700,0.0
+2,2134,Intereses y Comisiones de Emprestitos Externos,10808155.0,10808155,0.0
+1,2135,"Impuestos, Tasas y Derechos",30976165.0,19595935,-11500000.0
+2,2135,"Impuestos, Tasas y Derechos",16174595.0,16174595,0.0
+1,2136,"Seguros, Comisiones y Gastos Bancarios",36112237.0,34382862,-2495455.0
+2,2136,"Seguros, Comisiones y Gastos Bancarios",29144515.0,29144515,0.0
+1,2139,Otros Gastos no Clasificados,6680540.0,6680540,0.0
+2,2139,Otros Gastos no Clasificados,11500625.0,11500625,0.0
+1,2142,Transferencias Corrientes al Sector Público,986185319.0,988015869,1830000.0
+2,2142,Transferencias Corrientes al Sector Público,15621370.0,15621370,0.0
+1,2143,Transferencias Corrientes al Sector Privado,399476891.0,404533706,4261815.0
+2,2143,Transferencias Corrientes al Sector Privado,139732566.0,139762566,0.0
+1,2144,Transferencias Corrientes al Sector Externo,11438310.0,6506120,-5000000.0
+2,2144,Transferencias Corrientes al Sector Externo,671480.0,671480,0.0
+1,2211,Bienes Muebles,37537375.0,38301625,0.0
+2,2211,Bienes Muebles,59770513.0,59770513,0.0
+1,2212,Bienes Inmuebles,9312655.0,9312655,0.0
+2,2212,Bienes Inmuebles,1909200.0,1909200,0.0
+1,2213,Intangibles,2889827.0,3030327,0.0
+2,2213,Intangibles,5175318.0,5175318,0.0
+1,2214,Infraestructura,206930376.0,208810376,1875000.0
+2,2214,Infraestructura,307703120.0,307763120,60000.0
+1,2221,Inversión en Capital Humano,19825440.0,19825440,0.0
+2,2221,Inversión en Capital Humano,11787810.0,11787810,0.0
+1,2232,Transferencias de Capital al Sector Público,459154115.0,459406043,251928.0
+2,2232,Transferencias de Capital al Sector Público,379284855.0,379284855,0.0
+1,2233,Transferencias de Capital al Sector Privado,58962725.0,58962725,0.0
+2,2233,Transferencias de Capital al Sector Privado,12938015.0,12938015,0.0
+1,2234,Otras Transferencias de Capital,2395000.0,8819217,0.0
+1,2311,Rescate de Colocaciones de Titulos y Valores en el Mercado N,0.0,3573090,0.0
+2,2311,Rescate de Colocaciones de Titulos y Valores en el Mercado N,8288995.0,8288995,0.0
+1,2312,Rescate de Colocaciones de Titulos y Valores en el Mercado E,0.0,800000000,0.0
+1,2313,Amortización de Emprestitos Internos,0.0,5940605,0.0
+2,2313,Amortización de Emprestitos Internos,11250280.0,11250280,0.0
+1,2314,Amortización de Emprestitos Externos,0.0,280949640,0.0
+2,2314,Amortización de Emprestitos Externos,44359080.0,44359080,0.0
+2,2121,Prestaciones de la Seguridad Social,512246425.0,512246425,0.0
+2,2137,Crédito Fiscal,1358325.0,1358325,0.0
+2,2215,Crédito Fiscal,8020356.0,8020356,0.0
+2,2241,Inversiones en Titulos Valores,3438180.0,3438180,0.0
+2,2242,Préstamos,22481500.0,22481500,0.0
